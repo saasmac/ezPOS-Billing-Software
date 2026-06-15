@@ -1,7 +1,5 @@
 # ezPOS Billing Software
-
-<img width="4677" height="3307" alt="Thalir" src="https://github.com/user-attachments/assets/ced2a724-4e29-4708-9936-c8ee700bc9ea" />
-
+_________________________
 ## Smart Billing & Inventory Management for Retail Businesses
 
 ezPOS is a powerful desktop-based Point of Sale (POS) and Inventory Management solution developed by Thalir Technologies. It helps retail and Holesale businesses streamline billing, manage inventory, track sales, and improve operational efficiency.
@@ -111,6 +109,16 @@ ezPOS is a powerful desktop-based Point of Sale (POS) and Inventory Management s
 ### Customer Master
 
 <img width="1366" height="768" alt="Customer_Master" src="https://github.com/user-attachments/assets/17476a3f-b9b2-4965-b07d-36ba3fd7217a" />
+
+### Sample Bill - 1
+
+<img width="346" height="491" alt="Bill_4inch" src="https://github.com/user-attachments/assets/c9e8af08-d003-489d-85bd-bf6605cabe46" />
+
+### Sample Bill - 2
+
+<img width="929" height="647" alt="Bill_A5_L" src="https://github.com/user-attachments/assets/e29a48f0-a0e9-4dea-985f-4113f7f754d1" />
+
+
 
 
 ---
